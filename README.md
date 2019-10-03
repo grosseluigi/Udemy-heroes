@@ -23,6 +23,8 @@ Un **gran _poder_** conyeva una gran *responsabilidad*
   * subitem
   * subitem
   
+  :octocat:
+  
   ![Github](https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/github-universe.jpg?itok=lwRZddXA)
   
   [ir a la Imagen](https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/github-universe.jpg?itok=lwRZddXA)
